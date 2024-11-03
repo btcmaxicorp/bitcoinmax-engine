@@ -1,1 +1,1 @@
-# BTCMAX Backend
+# bitcoinmax back end
